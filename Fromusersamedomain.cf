@@ -1,0 +1,4 @@
+loadplugin  Fromusersamedomain          Fromusersamedomain.pm
+header      USER_SAME_DOMAIN            eval:check_user_same_domain()
+describe    USER_SAME_DOMAIN            Domain contain the user account
+score       USER_SAME_DOMAIN            2.0
